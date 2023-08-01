@@ -2,7 +2,9 @@
   "name": "@ez-projects/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "graph": "nx graph"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~16.1.0",
